@@ -1,7 +1,9 @@
-# render-children-template
-------------------------------------------------------
+# render-children-template #
+
+A General purpose OpenScad class template for functions and modules pertaining to aligning modules/ children/ parts or other objects and then rendering or snapshoting them.
 
 Created 2023-2024 by Dan Brown
+
 ------------------------------------------------------
 
 Stop doing newb-like logic when trying to render modules/ parts one at a time:
@@ -73,10 +75,6 @@ and watch as it creates renders or snapshots of the parts automatically!
 
 - See render_children_template_example.scad for an example.
 ------------------------------------------------------
-
-A General purpose OpenScad class template for functions and modules pertaining
-     to aligning modules/ children/ parts or other objects and then 
-     rendering or snapshoting them.
      
 -   Again, this is a template. It can be used as is or changed/ 
     expanded upon - it is a general guide or form for doing things.
